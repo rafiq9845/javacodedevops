@@ -41,9 +41,9 @@
         <url>http://3.111.219.176:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
     <repository>
-        <id>central</id>
-        <name>jfrog.cloudbinary.io-releases</name>
-        <url>http://3.111.219.176:8081/artifactory/libs-release-local</url>
+       <id>cloudbinary-cloudbinary</id>
+    <name>cloudbinary-cloudbinary</name>
+    <url>https://cloudbinary-266934144328.d.codeartifact.us-east-1.amazonaws.com/maven/cloudbinary/</url>
     </repository>
 </distributionManagement>
 -->
